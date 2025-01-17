@@ -2,7 +2,8 @@
 
 🎓 Estudante de Análise e Desenvolvimento de Sistemas  
 💻 Focada em Desenvolvimento Back-End  
-🌱 Atualmente aprendendo: Python, Java Script, HTML, CSS. 
+🌱 Atualmente aprendendo: Python, Java Script, HTML, CSS.
+
 ✨ Em transição de carreira e pronta para novos desafios no mundo da tecnologia!  
 
 
