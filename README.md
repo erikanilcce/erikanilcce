@@ -1,4 +1,4 @@
-# Olá! Eu sou Erika Nilce👋
+# Olá! Eu sou Erika Nilce👋 Desenvolvedora Front-End Jr
 
 🎓 Estudante de Análise e Desenvolvimento de Sistemas  
 
