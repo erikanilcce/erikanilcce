@@ -10,7 +10,7 @@ Sou estudante de Análise e Desenvolvimento de Sistemas. Apaixonada por desenvol
 
 * 🌍 Moro no Brasil
 * ✉️ Você pode entrar em contato comigo em [erikanilcce@gmail.com](mailto:erikanilcce@gmail.com)
-* 🧠 Estou aprendendo atualmente estou estudando Python, Java, HTML, CSS. 
+* 🧠 Atualmente estou estudando Python, Java Script, HTML, CSS. 
 * ⚡ Objetivo: Especializa-me em desenvolvimento Back-End e criar soluções eficientes e escaláveis.
 
 <a href="https://www.github.com/erikanilcce" target="_blank" rel="noreferrer"><img
