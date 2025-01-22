@@ -13,6 +13,8 @@ Sou estudante de Análise e Desenvolvimento de Sistemas. Apaixonada por desenvol
 * 🧠 Atualmente estou estudando Python, Java Script, HTML, CSS. 
 * ⚡ Objetivo: Especializa-me em desenvolvimento Back-End e criar soluções eficientes e escaláveis.
 * 👩🏻‍💻 Projetos: https://erikanilcce.github.io/ensaiosmensaisdoniklaus/
+
+
 <a href="https://www.github.com/erikanilcce" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/erikanilcce?logo=github&style=for-the-badge&color=ec4899&labelColor=000000" /></a>
 
